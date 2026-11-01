@@ -5,8 +5,8 @@
   "description": "Express CRUD API backed by SQLite",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch . --ext js,mjs,cjs,json,sql index.js",
-    "dev": "npm start"
+    "start": "node index.js",
+    "dev": "nodemon --watch . --ext js,mjs,cjs,json,sql index.js"
   },
   "dependencies": {
     "express": "^5.1.0",
