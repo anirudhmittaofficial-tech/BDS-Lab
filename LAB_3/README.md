@@ -5,8 +5,8 @@
 ---
 
 ### Live Link
-- **🌐 Live Deployed API (Render):** [https://bdf-lab-3.onrender.com/books/](https://bdf-lab-3.onrender.com/books/)
-- **📬 Postman Collection File:** [`Express_Lab3_Postman_Collection.json`](./Express_Lab3_Postman_Collection.json) — Import into Postman and set `{{baseUrl}}` to `http://localhost:3000` (or `https://bdf-lab-3.onrender.com`) to test all success and failure cases.
+- **🌐 Live Deployed API (Render):** [https://bds-lab-3-dlkg.onrender.com/books/](https://bds-lab-3-dlkg.onrender.com/books/)
+- **📬 Postman Collection File:** [`Express_Lab3_Postman_Collection.json`](./Express_Lab3_Postman_Collection.json) — Import into Postman and set `{{baseUrl}}` to `http://localhost:3000` (or `https://bds-lab-3-dlkg.onrender.com`) to test all success and failure cases.
 
 ---
 
